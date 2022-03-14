@@ -43,3 +43,6 @@ vignettes/*.pdf
 *.Rproj
 .Rproj.user
 *.Rhistory
+
+# add unzipped folder
+/data/
