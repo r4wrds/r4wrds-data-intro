@@ -46,3 +46,4 @@ vignettes/*.pdf
 
 # add unzipped folder
 /data/
+/intro_proj/
