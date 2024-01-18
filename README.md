@@ -24,8 +24,5 @@ download.file("https://github.com/r4wrds/r4wrds-data-intro/raw/main/data.zip", d
 # unzip the data:
 unzip(zipfile = "data/data.zip")
 
-# if get resulting __MACOSX folder (artifact of unzip), remove:
-unlink("__MACOSX", recursive = TRUE)
-
 ```
 
