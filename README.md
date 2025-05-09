@@ -6,9 +6,9 @@ Datasets used in the introductory R4WRDS class.
 
 For a simple single download, we can use this zipped file which includes all the data, folders, and an RStudio project: 
 
- - [https://github.com/r4wrds/r4wrds-data-intro/raw/main/intro_proj.zip](https://github.com/r4wrds/r4wrds-data-intro/raw/main/intro_proj.zip)
+ - [https://github.com/r4wrds/r4wrds-data-intro/raw/main/r4wds_proj.zip](https://github.com/r4wrds/r4wrds-data-intro/raw/main/r4wds_proj.zip)
 
-Download and unzip into a folder where you want your RProjects to live, and double click the `intro_proj.Rproj` file.
+Download and unzip into a folder where you want your RProjects to live, and double click the `r4wds.Rproj` file.
 
 ## Create RStudio Project First, Then Download Data
 
